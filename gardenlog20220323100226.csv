@@ -1,0 +1,5 @@
+time,sensor_good,humidity,temperature,spraying
+1648004546.1371038,True,73.0,29.0,False
+1648004551.1372395,True,73.0,29.0,False
+1648004556.137379,True,73.0,29.0,False
+1648004561.1375165,True,73.0,29.0,False
