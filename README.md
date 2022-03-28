@@ -8,7 +8,7 @@ As simple as dht11 to raspi to relay to valve
 * Electronic valve FCD-180B
 
 ### Pin assignment and connection
-**Pin name | Assignment | Connection**
+**Pin name** | **Assignment** | **Connection**
 ---|---|---
 Raspberry Pi
 GPIO17 | Digital out to relay | IN 1
